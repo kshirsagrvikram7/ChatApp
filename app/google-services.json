@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "963392364528",
+    "firebase_url": "https://chatapp-9585d.firebaseio.com",
+    "project_id": "chatapp-9585d",
+    "storage_bucket": "chatapp-9585d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963392364528:android:760b9e76b553200a",
+        "android_client_info": {
+          "package_name": "vksagar.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963392364528-f0ubgov3gri60bdive7v27q0is7709nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKMZB4JVZlEiC1LlyN_R_JLJ-_k3JF8x4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
